@@ -5,4 +5,4 @@
 <h2 align="center">🛠️Programming and Markup Languages🛠️</h2>
 <br>
 <div align="center">
-<img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
