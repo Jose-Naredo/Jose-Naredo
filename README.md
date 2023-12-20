@@ -16,7 +16,7 @@
  <p>
   🧑🏽‍🎨Software and Tools🧰
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,canva"/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,visualstudio,vscode"/>
 </p>
 
 
