@@ -14,7 +14,7 @@
 <details align="center">
   <summary><h2 align="center">🛠️ My Work Tools 🛠️</h2></summary>
   <p>
-  - 🧑🏽‍💻Programming and Markup Languages📱
+  🧑🏽‍💻Programming and Markup Languages📱
   <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,cs,js,bootstrap"/>
 </p>
