@@ -7,17 +7,18 @@
   </a>
 </h1>
 
-<h2 align="center">🛠️ Programming and Markup Languages 🛠️</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cs,js,bootstrap"/>
-</p>
+
+
 
 <details align="center">
-  <summary>Click to see the list</summary>
+  <summary><h2 align="center">🛠️ My Work Tools 🛠️</h2></summary>
   <p>
-
-  - Item 1
+  - 🧑🏽‍💻Programming and Markup Languages📱
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,cs,js,bootstrap"/>
+</p>
+   
   - Item 2
   - Item 3
   - Item 4
