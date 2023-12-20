@@ -12,7 +12,10 @@
   <p>
   <h2 align="center">🧑🏽‍💻Programming and Markup Languages📱</h2>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cs,js,bootstrap"/>
+ <img style="border: none;" src="https://skillicons.dev/icons?i=html,css,cs,js,bootstrap"/>
+</p>
+
+<h2 align="center">🧑🏽‍🎨Software and Tools🧰</h2>
 </p>
  <p>
  <h2 align="center">🧑🏽‍🎨Software and Tools🧰</h2>
