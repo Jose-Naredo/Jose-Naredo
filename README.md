@@ -7,7 +7,7 @@
   </a>
 </h1>
 <details align="center">
-  <summary><h2 align="center">🛠️ My Work Tools 🛠️</h2></summary>
+  <h2 align="center">🛠️ My Work Tools 🛠️</h2>
   <p>
   🧑🏽‍💻Programming and Markup Languages📱
   <p align="center">
