@@ -17,9 +17,7 @@
  <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,visualstudio,vscode"/>
 </p>
-<br>
-  </p>
-  </div>
+ </div>
 </body>
 </html>
 
