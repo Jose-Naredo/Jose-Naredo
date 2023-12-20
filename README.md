@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-  <h2 style="border: none;" align="center">🛠️ My Work Tools 🛠️</h2>
+  <h2 style="border: none;" >🛠️ My Work Tools 🛠️</h2>
   <p>
   <h2 align="center">🧑🏽‍💻Programming and Markup Languages📱</h2>
   <p align="center">
