@@ -9,13 +9,15 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,cs,js,bootstrap"/>
 
-<select name="dropdown">
-  <h2>🛠️Programming Tools🛠️
-  <option value="option1">Option 1</option>
-  <option value="option2">Option 2</option>
-  <option value="option3">Option 3</option>
-  <option value="option4">Option 4</option>
-</select>
+<details>
+  <summary>Click to see the list</summary>
+
+  - Item 1
+  - Item 2
+  - Item 3
+  - Item 4
+
+</details>
 
 </body>
 </html>
